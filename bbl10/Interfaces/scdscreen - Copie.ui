@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>580</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="label">
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>30</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>Content</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_2">
+     <property name="text">
+      <string>Tsy misy tantara Izay mamin’ny foko 
+ Toy ny tantaran’i Jeso! 
+Tantara mambabo ny foko tokoa 
+Tantarao amiko indray
+</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_3">
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>30</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>./....</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
